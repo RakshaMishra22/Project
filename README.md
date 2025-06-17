@@ -10,7 +10,7 @@ This interactive Excel dashboard provides a comprehensive overview of sales perf
 **Filters:** Product Category, Order Date, Region     
 **Data Source:** Sales and profit data categorized by products, cities, states, regions, segments, and managers.        
 
-**Features and Highlights**     
+🎯**Features and Highlights**     
 ✅ Shipment mode distribution to understand logistics reliance.     
 ✅ Insights on top 5 profitable states and top 10 profitable cities.     
 ✅ Identification of top performing managers.     
@@ -20,7 +20,7 @@ This interactive Excel dashboard provides a comprehensive overview of sales perf
 ✅ Highlights of most sold and least profitable products.     
 ✅ Interactive slicers for product category, order date, and region to enable dynamic analysis.     
 
-**METRICS ANALYSED**     
+📈**METRICS ANALYSED**     
 **Shipment Mode:** Most shipments are by ‘Regular Air’ followed by ‘Delivery Truck’.     
 **Top States:** California is the highest contributor to profit.     
 **Least Profitable Products:** ‘Tables’ have significant negative profit.     
